@@ -13,10 +13,10 @@
       <Item value="connectMode" priority="0" />
       <Item value="ext_ConnectMode`0" priority="0" />
       <Item value="OnStartupComplete`0" priority="0" />
-      <Item value="new" priority="5" />
+      <Item value="new" priority="8" />
       <Item value="Array`0" priority="2" />
       <Item value="ref" priority="1" />
-      <Item value="var" priority="12" />
+      <Item value="var" priority="15" />
       <Item value="Command`0" priority="1" />
       <Item value="string" priority="5" />
       <Item value="codeWindowCommand" priority="1" />
@@ -45,8 +45,8 @@
       <Item value="override" priority="0" />
       <Item value="void" priority="1" />
       <Item value="IDTCommandTarget`0" priority="0" />
-      <Item value="using" priority="1" />
-      <Item value="System" priority="2" />
+      <Item value="using" priority="5" />
+      <Item value="System" priority="5" />
       <Item value="Web" priority="0" />
       <Item value="from" priority="0" />
       <Item value="d" priority="1" />
@@ -63,7 +63,7 @@
       <Item value="break" priority="1" />
       <Item value="default" priority="0" />
       <Item value="const" priority="0" />
-      <Item value="selection" priority="2" />
+      <Item value="selection" priority="3" />
       <Item value="String`0" priority="0" />
       <Item value="Threading" priority="0" />
       <Item value="vsNavigateOptionsNewWindow" priority="0" />
@@ -71,6 +71,16 @@
       <Item value="vsCommandStatus`0" priority="0" />
       <Item value="else" priority="0" />
       <Item value="vsCommandStatusUnsupported" priority="0" />
+      <Item value="IO" priority="1" />
+      <Item value="File`0" priority="0" />
+      <Item value="OpenOrCreate" priority="0" />
+      <Item value="file" priority="2" />
+      <Item value="TextWriter`0" priority="1" />
+      <Item value="StringWriter`0" priority="0" />
+      <Item value="Text" priority="0" />
+      <Item value="StringBuilder`0" priority="0" />
+      <Item value="writer" priority="0" />
+      <Item value="StreamWriter`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:EnvDTE80.DTE2">
       <Item value="ContextAttributes" priority="0" />
@@ -125,7 +135,7 @@
       <Item value="Selection" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:EnvDTE.TextSelection">
-      <Item value="Text" priority="1" />
+      <Item value="Text" priority="2" />
       <Item value="Copy`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.String">
@@ -138,44 +148,54 @@
       <Item value="vsCommandStatusSupported" priority="0" />
       <Item value="vsCommandStatusEnabled" priority="0" />
     </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.IO.File">
+      <Item value="OpenWrite`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.FileStream">
+      <Item value="Write`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="Write`0" priority="0" />
+      <Item value="Close`0" priority="0" />
+    </ItemStatistics>
   </CompletionStatisticsManager>
   <RecentFiles>
     <RecentFiles>
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="5654" fromTop="34" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:GistPlugin.AddIn" caret="0" fromTop="0" />
       <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:AssemblyInfo.cs" caret="0" fromTop="0" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:GistPlugin.AddIn" caret="0" fromTop="0" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6031" fromTop="21" />
     </RecentFiles>
     <RecentEdits>
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="14" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="19" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="7" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="9" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="9" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="17" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="10" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="10" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="8" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="13" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="3" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="5" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="10" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="10" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="119" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="4" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="124" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="125" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6549" fromTop="125" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="1566" fromTop="7" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="558" fromTop="11" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="5830" fromTop="13" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="1417" fromTop="7" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="4519" fromTop="25" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="4304" fromTop="9" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="623" fromTop="25" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6498" fromTop="38" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="3000" fromTop="11" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="5628" fromTop="27" />
-      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="3311" fromTop="31" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="9" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="17" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="10" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="10" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="8" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="13" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="3" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="5" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="10" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="10" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="119" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="4" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="124" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="125" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6660" fromTop="125" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6656" fromTop="7" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="580" fromTop="11" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6656" fromTop="13" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6656" fromTop="7" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6656" fromTop="25" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6656" fromTop="9" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6656" fromTop="25" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6656" fromTop="38" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6656" fromTop="11" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6656" fromTop="31" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="248" fromTop="13" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6656" fromTop="23" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6656" fromTop="23" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="6656" fromTop="20" />
+      <File id="5CEC4D66-3C00-48EB-B94A-578202160760/f:Connect.cs" caret="5915" fromTop="16" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
