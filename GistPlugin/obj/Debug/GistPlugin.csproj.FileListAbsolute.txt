@@ -1,8 +1,0 @@
-D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\bin\Debug\GistPlugin.dll
-D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\bin\Debug\GistPlugin.pdb
-D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\bin\Debug\GistPlugin.xml
-D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\obj\Debug\ResolveAssemblyReference.cache
-D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\obj\Debug\GistPlugin.csproj.ResolveComReference.cache
-D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\obj\Debug\GistPlugin.dll
-D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\obj\Debug\GistPlugin.pdb
-D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\bin\Debug\GistPlugin.AddIn
