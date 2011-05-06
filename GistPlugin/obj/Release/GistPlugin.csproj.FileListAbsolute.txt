@@ -1,0 +1,6 @@
+D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\bin\Release\GistPlugin.AddIn
+D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\bin\Release\GistPlugin.dll
+D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\bin\Release\GistPlugin.xml
+D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\obj\Release\ResolveAssemblyReference.cache
+D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\obj\Release\GistPlugin.csproj.ResolveComReference.cache
+D:\GitRepo\GistPluginVS\GistPlugin\GistPlugin\obj\Release\GistPlugin.dll
